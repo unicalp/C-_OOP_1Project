@@ -1,0 +1,26 @@
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\bin\Debug\Projekt1_Ates64504.exe.config
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\bin\Debug\Projekt1_Ates64504.exe
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\bin\Debug\Projekt1_Ates64504.pdb
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.csproj.AssemblyReference.cache
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.csproj.SuggestedBindingRedirects.cache
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.ProjektLaborotorim.resources
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.ProjectInduwydualny.resources
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.Kokpit_Ates64504.resources
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.Properties.Resources.resources
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.csproj.GenerateResource.cache
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.exe
+C:\Users\osman\OneDrive\Masaüstü\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.pdb
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\bin\Debug\Projekt1_Ates64504.exe.config
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\bin\Debug\Projekt1_Ates64504.exe
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\bin\Debug\Projekt1_Ates64504.pdb
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.csproj.AssemblyReference.cache
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.csproj.SuggestedBindingRedirects.cache
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.ProjektLaborotorim.resources
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.ProjectInduwydualny.resources
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.Kokpit_Ates64504.resources
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.Properties.Resources.resources
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.csproj.GenerateResource.cache
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.exe
+C:\Users\osman\OneDrive\Masaüstü\For U\Projekt1_Ates64504\Projekt1_Ates64504\obj\Debug\Projekt1_Ates64504.pdb
